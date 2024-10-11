@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+:airplane: MSc Aerospace Engineering student @ TU Delft
+
 <!--
 **gorkalopezmoreno/gorkalopezmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
